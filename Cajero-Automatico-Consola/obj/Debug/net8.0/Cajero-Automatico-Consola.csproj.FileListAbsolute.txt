@@ -1,0 +1,15 @@
+C:\Users\Juan Pablo\Desktop\Facultad\Lab Prog 3\Cajero Automatico\Cajero-Automatico-Consola\Cajero-Automatico-Consola\bin\Debug\net8.0\Cajero-Automatico-Consola.exe
+C:\Users\Juan Pablo\Desktop\Facultad\Lab Prog 3\Cajero Automatico\Cajero-Automatico-Consola\Cajero-Automatico-Consola\bin\Debug\net8.0\Cajero-Automatico-Consola.deps.json
+C:\Users\Juan Pablo\Desktop\Facultad\Lab Prog 3\Cajero Automatico\Cajero-Automatico-Consola\Cajero-Automatico-Consola\bin\Debug\net8.0\Cajero-Automatico-Consola.runtimeconfig.json
+C:\Users\Juan Pablo\Desktop\Facultad\Lab Prog 3\Cajero Automatico\Cajero-Automatico-Consola\Cajero-Automatico-Consola\bin\Debug\net8.0\Cajero-Automatico-Consola.dll
+C:\Users\Juan Pablo\Desktop\Facultad\Lab Prog 3\Cajero Automatico\Cajero-Automatico-Consola\Cajero-Automatico-Consola\bin\Debug\net8.0\Cajero-Automatico-Consola.pdb
+C:\Users\Juan Pablo\Desktop\Facultad\Lab Prog 3\Cajero Automatico\Cajero-Automatico-Consola\Cajero-Automatico-Consola\obj\Debug\net8.0\Cajero-Automatico-Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Pablo\Desktop\Facultad\Lab Prog 3\Cajero Automatico\Cajero-Automatico-Consola\Cajero-Automatico-Consola\obj\Debug\net8.0\Cajero-Automatico-Consola.AssemblyInfoInputs.cache
+C:\Users\Juan Pablo\Desktop\Facultad\Lab Prog 3\Cajero Automatico\Cajero-Automatico-Consola\Cajero-Automatico-Consola\obj\Debug\net8.0\Cajero-Automatico-Consola.AssemblyInfo.cs
+C:\Users\Juan Pablo\Desktop\Facultad\Lab Prog 3\Cajero Automatico\Cajero-Automatico-Consola\Cajero-Automatico-Consola\obj\Debug\net8.0\Cajero-Automatico-Consola.csproj.CoreCompileInputs.cache
+C:\Users\Juan Pablo\Desktop\Facultad\Lab Prog 3\Cajero Automatico\Cajero-Automatico-Consola\Cajero-Automatico-Consola\obj\Debug\net8.0\Cajero-Automatico-Consola.dll
+C:\Users\Juan Pablo\Desktop\Facultad\Lab Prog 3\Cajero Automatico\Cajero-Automatico-Consola\Cajero-Automatico-Consola\obj\Debug\net8.0\refint\Cajero-Automatico-Consola.dll
+C:\Users\Juan Pablo\Desktop\Facultad\Lab Prog 3\Cajero Automatico\Cajero-Automatico-Consola\Cajero-Automatico-Consola\obj\Debug\net8.0\Cajero-Automatico-Consola.pdb
+C:\Users\Juan Pablo\Desktop\Facultad\Lab Prog 3\Cajero Automatico\Cajero-Automatico-Consola\Cajero-Automatico-Consola\obj\Debug\net8.0\Cajero-Automatico-Consola.genruntimeconfig.cache
+C:\Users\Juan Pablo\Desktop\Facultad\Lab Prog 3\Cajero Automatico\Cajero-Automatico-Consola\Cajero-Automatico-Consola\obj\Debug\net8.0\ref\Cajero-Automatico-Consola.dll
+C:\Users\Juan Pablo\Desktop\Facultad\Lab Prog 3\Cajero Automatico\Cajero-Automatico-Consola\Cajero-Automatico-Consola\obj\Debug\net8.0\Cajero-Automatico-Consola.sourcelink.json
